@@ -1,0 +1,1 @@
+# The Illusory Validity of Subjective Technical Analysis
