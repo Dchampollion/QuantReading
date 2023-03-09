@@ -1,5 +1,5 @@
 - [目录](README.md)
-  - Evidence-Based Technical Analysis
+  - [Evidence-Based Technical Analysis](EBTA/cover.md)
     - [Chapter0 Introduction](EBTA/chapter0.md)
     - [Chapter1 Objective Rules and Their Evaluation](EBTA/chapter1.md)
     - [Chapter2 The Illusory Validity of Subjective Technical Analysis](EBTA/chapter2.md)
